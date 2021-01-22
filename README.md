@@ -1,8 +1,8 @@
-![theree card transparent](https://github.com/jnerydesigner/landing-page-stylized/blob/main/images/page-stylized.png)
+![theree card transparent](https://github.com/jnerydesigner/landing-page-stylized/blob/master/images/page-stylized.png)
 
 ## Landing Page Stylized
 
-![theree card transparent gif animated](https://github.com/jnerydesigner/landing-page-stylized/blob/main/images/stylized.gif)
+![theree card transparent gif animated](https://github.com/jnerydesigner/landing-page-stylized/blob/master/images/stylized.gif)
 
 Usamos as seguintes linguagens
 
